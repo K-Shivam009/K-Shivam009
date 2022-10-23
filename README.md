@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @K-Shivam
-- 👀 I’m interested in webdev and opensource
+- 👀 I’m interested in webdev and opensource.
 - 🌱 I’m currently learning Javascript and python 
 - 💞️ I’m looking to collaborate on dev
 - 📫 How to reach me ...
